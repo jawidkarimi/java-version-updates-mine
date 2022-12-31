@@ -8,7 +8,7 @@ import java.util.stream.Stream;
 public class StreamOperations {
     public static void main(String[] args) {
 
-        List<Integer> list = Arrays.asList(1,2,3,4);
+        List<Integer> list = Arrays.asList(1,2,2,3,4,6,8,10);
 //        list.forEach(System.out::println);
 
 
